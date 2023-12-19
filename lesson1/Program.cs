@@ -1,1 +1,12 @@
-﻿Console.WriteLine("Hello MotherFuckers!!!");
+﻿// Console.WriteLine("Hello MotherFuckers!!!");
+
+
+int value = 100;
+Console.WriteLine(value);
+
+double d = 5.55;
+char c = '!';
+bool b = true;
+Console.WriteLine(b);
+Console.WriteLine(c);
+Console.WriteLine(d);
