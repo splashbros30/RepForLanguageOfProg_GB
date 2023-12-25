@@ -1,4 +1,4 @@
-﻿int N = 20;
+﻿int N = 100;
 int index = 1;
 
 while (index <= N)
